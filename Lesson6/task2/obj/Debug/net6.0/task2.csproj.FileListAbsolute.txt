@@ -1,0 +1,15 @@
+C:\Project\C#_lessons\Lesson6\task2\bin\Debug\net6.0\task2.exe
+C:\Project\C#_lessons\Lesson6\task2\bin\Debug\net6.0\task2.deps.json
+C:\Project\C#_lessons\Lesson6\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\Project\C#_lessons\Lesson6\task2\bin\Debug\net6.0\task2.dll
+C:\Project\C#_lessons\Lesson6\task2\bin\Debug\net6.0\task2.pdb
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.dll
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\refint\task2.dll
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.pdb
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+C:\Project\C#_lessons\Lesson6\task2\obj\Debug\net6.0\ref\task2.dll
